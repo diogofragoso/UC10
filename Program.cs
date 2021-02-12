@@ -40,6 +40,7 @@ namespace Switch_Case
             fusca.Nome = Console.ReadLine();
 
             System.Console.WriteLine(fusca.Nome);
+             System.Console.WriteLine(fusca.Nome);
 
         }
     }

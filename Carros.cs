@@ -16,8 +16,11 @@ namespace Switch_Case
         
         
          set{
+                if(value != null){
 
-             _nome =  value;
+                    _nome =  value;
+                }
+             
          }
          
           }
