@@ -34,6 +34,13 @@ namespace Switch_Case
             System.Console.WriteLine("TESTE 1");
             System.Console.WriteLine("Teste 2");
 
+
+            Carros fusca = new Carros();
+
+            fusca.Nome = Console.ReadLine();
+
+            System.Console.WriteLine(fusca.Nome);
+
         }
     }
 }
