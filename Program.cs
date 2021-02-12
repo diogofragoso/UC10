@@ -41,6 +41,7 @@ namespace Switch_Case
 
             System.Console.WriteLine(fusca.Nome);
              System.Console.WriteLine(fusca.Nome);
+             System.Console.WriteLine("ola");
 
         }
     }
