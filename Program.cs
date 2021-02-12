@@ -31,7 +31,7 @@ namespace Switch_Case
             }
             System.Console.WriteLine("Dia da semana " + dia);
 
-            
+            System.Console.WriteLine("TESTE 1");
 
         }
     }
